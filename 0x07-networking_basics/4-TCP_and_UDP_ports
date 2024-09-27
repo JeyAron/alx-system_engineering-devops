@@ -1,7 +1,14 @@
 #!/usr/bin/env bash
 #a Bash script that displays listening ports:
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc183dc0f49049d07117773938c7d7b2e5fd510e
 #That only shows listening sockets
 #That shows the PID and name of the program to which each socket belongs
 
 netstat -tpln
+<<<<<<< HEAD
+=======
+~             
+>>>>>>> cc183dc0f49049d07117773938c7d7b2e5fd510e
